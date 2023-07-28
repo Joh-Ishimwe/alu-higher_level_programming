@@ -1,4 +1,4 @@
-y#!/usr/bin/python3
+#!/usr/bin/python3
 """defines to_json_string function"""
 import json
 
